@@ -1,4 +1,4 @@
 # Web Calculator
 
-![webcalc](webcalc.png)
+![webcalc](./webcalc.png)
 
